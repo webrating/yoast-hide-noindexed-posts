@@ -1,2 +1,3 @@
 # Yoast Hide Noindexed Posts
-WordPress plugin that hides Yoast noindexed posts and pages in the editor
+
+Adds a column to the WordPress post and page editors showing content without the noindex metatag and completely hides noindexed posts/pages. Works exclusively with Yoast SEO.
